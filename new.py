@@ -2,12 +2,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
+import seaborn as sns # FIX 2: Added this
 import plotly.express as px
-import plotly.graph_objects as go
+import plotly.graph_objects as go # FIX 1: graph_objects not graph_object
 import folium
 from streamlit_folium import st_folium
-import base64
 
 # -----------------------------
 # Page Configuration
@@ -21,32 +20,6 @@ st.set_page_config(
 
 sns.set_style("whitegrid")
 
-def set_bg_from_local(image_file):
-    try:
-        with open(image_file, "rb") as file:
-            encoded_string = base64.b64encode(file.read()).decode()
-        st.markdown(
-            f"""
-            <style>
-          .stApp {{
-                background-image: url("data:image/jpeg;base64,{encoded_string}")!important;
-                background-size: cover!important;
-                background-attachment: fixed!important;
-            }}
-            [data-testid="stAppViewContainer"] >.main {{
-                background-color: rgba(255, 255, 255, 0.88)!important;
-                padding: 25px; border-radius: 15px;
-            }}
-            [data-testid="stSidebar"] {{
-                background-color: rgba(255, 255, 255, 0.92)!important;
-            }}
-            </style>
-            """, unsafe_allow_html=True
-        )
-    except FileNotFoundError:
-        st.warning(f"Background image '{image_file}' not found.")
-
-set_bg_from_local("satinder.gif")
 
 # ----------------------------
 # Load Dataset + ADD STATE + FIX PARSER ERROR
