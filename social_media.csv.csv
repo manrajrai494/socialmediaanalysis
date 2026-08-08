@@ -1,0 +1,501 @@
+User_ID,Age,Gender,Occupation,Primary_Platform,Daily_Usage_Hours,Tried_To_Cut_Back,Anxiety_Score,Depression_Score,Sleep_Quality_Score,Sleep_Hours,Mental_Wellbeing_Score,Addiction_Level,States
+USR00001,30,Male,Working Professional,YouTube,2.9,No,2.5,3.8,8.5,5.3,7.3,Low,Andhara pardesh
+USR00002,19,Male,Student,Instagram,4.8,Yes,4,3.2,7.8,5.5,4.1,Severe,Arunachal pardesh
+USR00003,40,Male,Student,YouTube,,No,7.6,0,6.3,,5.6,High,Assam
+USR00004,37,Female,Student,Facebook,7.7,,3.3,3.5,3.9,6.1,4.3,Severe,Bihar
+USR00005,18,Non-binary,Student,TikTok,4.6,Yes,6.5,0,5.7,5,6.6,Moderate,Chhattisgarh
+USR00006,34,Male,Working Professional,YouTube,1.2,Yes,5.2,5.3,,5.6,7.7,Low,Goa
+USR00007,38,Female,Student,Facebook,5,No,5.3,3.8,4.8,8.2,5.5,High,Gujarat
+USR00008,22,Female,Unemployed,Twitter/X,3.4,Yes,3.4,6.1,3.8,10,6.2,Moderate,Haryana
+USR00009,43,Female,Student,YouTube,9.2,No,3.9,2.8,3.2,5.7,3.4,Severe,Himachal pardesh
+USR00010,40,Male,Student,Instagram,6.9,No,3.7,2.5,7.4,5.8,7.7,Low,Punjab
+USR00011,29,Male,Freelancer,Instagram,2.8,Yes,6.8,4.5,8.1,6,7,Low,Karnataka
+USR00012,38,Female,Working Professional,TikTok,6,No,5,5.5,2.3,7.3,5.7,High,kerala
+USR00013,23,Female,Working Professional,YouTube,5.5,No,6.2,,4.7,6,7.1,Moderate,Madhya pardesh
+USR00014,40,Male,Working Professional,Instagram,3.7,Yes,5.6,7.8,5.2,7.4,5.1,High,Maharashtra
+USR00015,29,Male,Working Professional,Instagram,3.8,Yes,3.4,6.1,7,6.4,9.2,Low,Manipur
+USR00016,25,Male,Student,Snapchat,3.9,No,4.3,6.5,5.7,,4.7,Severe,meghalaya
+USR00017,41,Non-binary,Unemployed,,2.4,Yes,10,0.4,5.4,5.3,6.6,Moderate,mizoram
+USR00018,23,Female,Freelancer,YouTube,5.1,No,7.9,9.7,3.4,7.7,6,High,Nagaland
+USR00019,22,Non-binary,Working Professional,Twitter/X,3.4,No,2.7,5.6,3.1,5.2,6.4,Moderate,Odisha
+USR00020,21,Female,Student,Facebook,4.3,No,5.1,1.2,6.4,6.7,5.6,High,Punjab
+USR00021,19,Female,Working Professional,Facebook,3.7,No,4.4,3.6,6.1,5.2,9.3,Low,Rajasthan
+USR00022,31,Female,Student,Instagram,2.9,Yes,4.2,2,6.1,4.8,6.7,Low,Sikkim
+USR00023,22,Male,Student,Instagram,8.7,No,4.9,5.8,5.2,5.9,5.1,Severe,Tamil nadu
+USR00024,27,Female,Unemployed,Snapchat,5.1,Yes,4.3,3.5,8.9,9.1,7.5,Low,Telangana
+USR00025,15,Male,,TikTok,6,No,2.8,2,5.8,8.3,6.5,Moderate,Tripura
+USR00026,26,Male,Student,Instagram,10.4,Yes,4.7,6.2,3.7,5.1,5.8,High,Uttar pardesh
+USR00027,38,Female,Freelancer,YouTube,4.4,No,0,0.8,4.9,6,6.9,High,Uttarakhand
+USR00028,41,Male,Working Professional,TikTok,3,No,5.2,3.1,6.3,7.6,8.5,Low,West bangal
+USR00029,21,Non-binary,Working Professional,Instagram,0.8,Yes,5.5,3.7,7.7,6.7,4.6,Severe,Karnataka
+USR00030,34,Female,Student,TikTok,1.4,Yes,8.4,4.2,6,6.9,7.6,Low,kerala
+USR00031,43,Male,Working Professional,Twitter/X,,Yes,6.2,2.7,6,8.2,5.8,High,West bangal
+USR00032,27,Male,Working Professional,TikTok,1.5,Yes,5.8,3.8,4.6,7.5,5.6,High,Manipur
+USR00033,20,Male,Student,Facebook,0.5,Yes,7.1,2.3,5.9,8.6,5.8,Moderate,Maharashtra
+USR00034,39,Female,Student,Instagram,4.6,No,0.6,3.3,7.1,5.3,5.8,High,mizoram
+USR00035,39,Female,Freelancer,Twitter/X,4.3,Yes,4.2,5.6,3,5.3,7.7,Low,Arunachal pardesh
+USR00036,38,Male,Working Professional,Instagram,8.2,Yes,6.8,3.7,8.1,4.8,6.2,High,Odisha
+USR00037,36,Female,Working Professional,Snapchat,1.3,Yes,9.6,5.8,7.2,6.7,3.5,Severe,Punjab
+USR00038,31,Non-binary,Student,Instagram,6.7,,4,3.5,3.8,7.9,5.4,Severe,Rajasthan
+USR00039,42,Male,Working Professional,Instagram,0.5,No,5,2,5.4,6.6,7.7,Low,Uttarakhand
+USR00040,44,Non-binary,Working Professional,Instagram,7.3,No,8.4,5.4,6.6,4.2,4.3,Severe,Uttar pardesh
+USR00041,15,Female,Student,Facebook,5.1,No,3.7,1.4,,8.7,8,Low,West bangal
+USR00042,17,Female,Working Professional,TikTok,2.4,No,3.1,,8.1,7.5,6.6,Moderate,Punjab
+USR00043,39,Female,Working Professional,TikTok,7.2,No,3.2,3.2,6.8,6.4,6.6,Moderate,Telangana
+USR00044,24,Male,Unemployed,Instagram,4.9,No,6.7,3.4,6.2,6.8,5.5,High,Karnataka
+USR00045,29,Female,Freelancer,TikTok,5.8,No,4.3,6.3,6.8,7.2,6.1,Moderate,kerala
+USR00046,21,Female,Student,Facebook,4.6,Yes,4.5,4.2,1,4.5,6.9,Moderate,Tamil nadu
+USR00047,19,,Student,Twitter/X,7,Yes,,3.9,10,5,8.2,Low,Telangana
+USR00048,29,Male,Student,TikTok,,No,1.7,1.2,3.3,5.3,7.1,Moderate,Punjab
+USR00049,24,Male,Student,Instagram,,Yes,5.9,3.8,6.7,6.5,6.7,Moderate,Odisha
+USR00050,38,,Working Professional,Instagram,2.6,Yes,1.5,6.7,,9.7,5.5,High,Sikkim
+USR00051,18,Male,Student,TikTok,2.7,Yes,0.4,6.7,6,8,6.6,Moderate,Sikkim
+USR00052,18,Female,Student,TikTok,6.2,No,5.3,0,7.7,6.7,6.6,Moderate,Rajasthan
+USR00053,23,Female,Working Professional,YouTube,5.8,No,8.3,10,7.6,3.3,3,Severe,Manipur
+USR00054,34,Female,Unemployed,YouTube,5.1,Yes,3.5,1.1,3.7,5.4,7.1,Moderate,meghalaya
+USR00055,31,Male,Freelancer,Instagram,4,No,1.8,2.5,6.3,9.5,7.3,Moderate,Tripura
+USR00056,16,Male,Student,TikTok,3.3,Yes,4.9,2.5,7.4,6.5,7.1,Moderate,Uttarakhand
+USR00057,15,Female,Student,Twitter/X,5.3,No,3.1,3.1,4.6,5.8,5.4,High,West bangal
+USR00058,31,Female,Student,Instagram,6.3,No,6.5,3.7,5,6.9,4,Severe,Haryana
+USR00059,37,Male,Working Professional,TikTok,6.2,Yes,5,2.9,3.9,6.2,5.8,High,Himachal pardesh
+USR00060,44,Male,Unemployed,Instagram,8.1,Yes,6.6,,6.1,7.8,6.1,High,Haryana
+USR00061,27,Female,Student,Facebook,8.3,Yes,3,4.5,6.3,5.4,6,High,Gujarat
+USR00062,43,Non-binary,Working Professional,TikTok,3.7,No,8.2,3.8,5.5,7.2,5.3,High,Gujarat
+USR00063,43,Male,Working Professional,Twitter/X,10,,4.9,1.4,3.2,7.6,6.9,Moderate,Nagaland
+USR00064,22,Male,Working Professional,Twitter/X,7.8,No,,7.5,3.6,7.8,7.4,Moderate,Punjab
+USR00065,38,Female,Freelancer,Facebook,5.2,Yes,5.7,2,4.7,7.2,3.7,Severe,Sikkim
+USR00066,25,Male,Student,Instagram,5.3,No,0.3,6.3,,6.3,4.9,Severe,Tripura
+USR00067,24,Female,Student,Twitter/X,5.7,Yes,7.7,7.1,5.3,5.6,6.4,Moderate,Andhara pardesh
+USR00068,18,Non-binary,Working Professional,Twitter/X,3.4,Yes,4.8,3,4.1,6.1,6,Moderate,Andhara pardesh
+USR00069,15,Male,Student,Instagram,3.1,No,3.4,6.3,6.2,7.5,7.7,Moderate,Arunachal pardesh
+USR00070,44,Female,Student,TikTok,4.6,Yes,6.6,6.6,9.6,9.4,6.6,Moderate,Assam
+USR00071,22,Male,Working Professional,YouTube,3.7,No,6,2,5.5,5.9,5.1,Severe,Arunachal pardesh
+USR00072,38,Female,Student,YouTube,0.5,Yes,5.7,3.4,3.5,7.8,7.1,Moderate,Chhattisgarh
+USR00073,43,Non-binary,Student,Facebook,5.9,Yes,6.3,0.9,4.7,7.6,8.1,Low,Assam
+USR00074,38,Female,,Instagram,0.5,No,7.2,8.2,6.6,6.2,6.6,Moderate,Chhattisgarh
+USR00075,15,Male,Freelancer,YouTube,5.3,Yes,6.1,4.9,6.3,5.2,6.3,High,Bihar
+USR00076,36,Male,Working Professional,YouTube,3.8,No,,5.1,5.7,7.9,4.1,Severe,Goa
+USR00077,19,Female,Student,YouTube,3.2,Yes,4.9,3.7,5.9,5.1,6.1,Moderate,Bihar
+USR00078,18,Female,Freelancer,Twitter/X,6.2,Yes,8.1,1,,5,5.2,High,Goa
+USR00079,16,Female,Freelancer,TikTok,2.8,No,6.4,,3.2,7.3,6.2,High,Chhattisgarh
+USR00080,18,Female,Working Professional,YouTube,2.4,Yes,6.3,3.8,7.3,4.2,8.4,Low,kerala
+USR00081,42,Female,Unemployed,TikTok,5.2,No,4.1,8.7,4.7,6.1,6.1,High,Karnataka
+USR00082,42,Male,Student,TikTok,5,No,9,3.8,6.8,6.4,4.4,Severe,Karnataka
+USR00083,16,Non-binary,Working Professional,Instagram,3,No,2.5,3.1,3.3,3,6.9,Moderate,Karnataka
+USR00084,34,Female,Freelancer,YouTube,2.9,Yes,5.8,2.9,7.9,5.5,7.5,Low,Karnataka
+USR00085,42,Male,Unemployed,Facebook,2.9,No,2.9,1.5,3.2,6.4,5.6,High,Bihar
+USR00086,19,Female,Student,Instagram,5.2,Yes,5.6,1.7,4.3,7.1,6.6,Moderate,Chhattisgarh
+USR00087,34,Male,Working Professional,Facebook,5.5,Yes,3.8,5.7,8.4,6.4,10,Low,mizoram
+USR00088,16,Male,Student,Instagram,6.3,Yes,7.4,7.4,3.4,8.4,4.4,Severe,Haryana
+USR00089,42,Male,Student,Snapchat,4.3,Yes,7,5,6.1,7.4,4.3,Severe,Uttarakhand
+USR00090,40,Female,Working Professional,TikTok,2.6,Yes,7.7,5.1,8,6.3,8.8,Low,Haryana
+USR00091,20,Male,Working Professional,TikTok,6.1,Yes,2.8,3.3,1.7,5.9,4.7,Severe,Goa
+USR00092,24,Female,Student,Facebook,10.2,No,4.8,6.4,5.5,6.2,5,High,Punjab
+USR00093,44,Male,Student,Instagram,8,No,6.5,4.3,8.9,5.1,5.6,Moderate,meghalaya
+USR00094,32,Female,Unemployed,Instagram,2.3,Yes,4.1,6.6,8.7,7.3,5.3,High,meghalaya
+USR00095,17,Male,Working Professional,Facebook,6.2,No,5.9,5.8,3.9,5.8,8,Low,meghalaya
+USR00096,34,Female,Working Professional,Instagram,4.3,Yes,8.2,0.3,5.1,6.2,4.8,Severe,meghalaya
+USR00097,33,Non-binary,Student,TikTok,4.3,No,8,3.7,5.8,3.9,4.5,Severe,Andhara pardesh
+USR00098,33,Male,Working Professional,Facebook,3.9,No,7.3,3.8,4.1,9.3,7,Moderate,Andhara pardesh
+USR00099,36,Male,Student,,2.7,No,6.9,0.9,2.8,8.2,6.8,Moderate,Goa
+USR00100,38,Female,,Twitter/X,1.2,Yes,5.8,7.6,4.7,4.3,7.6,Low,Andhara pardesh
+USR00101,18,Female,Student,Snapchat,5.5,Yes,5.5,7.8,5.6,6,7.4,Moderate,Himachal pardesh
+USR00102,26,Male,Working Professional,Instagram,2.3,Yes,10,5,5.3,6.8,8,Low,Andhara pardesh
+USR00103,41,Female,Working Professional,TikTok,3.3,No,1,1.4,3,6.1,6.8,Moderate,Chhattisgarh
+USR00104,30,Female,Working Professional,Instagram,3.7,No,3.8,2.1,2.5,6.1,6.5,High,kerala
+USR00105,31,Female,Student,Facebook,4.7,No,5.7,0.1,,5.2,4.3,Severe,kerala
+USR00106,27,Male,Working Professional,Facebook,3.6,No,5.1,4.3,3.8,7.1,5.9,High,kerala
+USR00107,44,Female,Freelancer,Twitter/X,4.2,Yes,4.8,3.9,4.6,8.3,8.8,Low,Assam
+USR00108,26,Female,Freelancer,,3.6,No,7.6,2,6.3,6.5,6.2,Moderate,Haryana
+USR00109,24,Male,Freelancer,YouTube,5.1,No,4.6,4.1,7.9,8.5,7.6,Low,Haryana
+USR00110,24,Male,Student,YouTube,5.3,Yes,4.2,5.5,7.2,9.1,7.3,Moderate,Punjab
+USR00111,27,Female,Working Professional,TikTok,7.7,No,5.8,3.2,2.4,5.7,7.2,High,Odisha
+USR00112,18,Female,Working Professional,TikTok,5.8,No,0.5,5.3,6.4,5.9,7.7,Low,Odisha
+USR00113,29,Female,Student,Instagram,3.3,No,,2.8,3,6.6,6.9,Low,meghalaya
+USR00114,29,Female,Working Professional,Instagram,5.8,No,2.3,6,4.9,7.7,4.4,Severe,mizoram
+USR00115,43,Male,Freelancer,Instagram,6.5,Yes,5.5,4.9,5,7.4,6,Moderate,Maharashtra
+USR00116,35,Male,Working Professional,Twitter/X,3.3,Yes,6.7,8.5,3.7,5.3,7.8,Low,Manipur
+USR00117,36,Female,Working Professional,Facebook,3.3,No,5.8,3,6.5,8,7.9,Low,Madhya pardesh
+USR00118,43,Female,Student,Instagram,0.5,No,5.8,3.4,6.2,8.2,6.7,Moderate,mizoram
+USR00119,30,Male,Student,Twitter/X,7.8,Yes,6.5,4.9,5,8.7,6.6,Moderate,Maharashtra
+USR00120,42,Non-binary,Working Professional,Instagram,4.9,No,7,3.7,7.5,6.8,4.3,Severe,meghalaya
+USR00121,18,Female,Working Professional,Instagram,7.5,No,6.1,8.7,5.1,5.8,7.1,Low,Chhattisgarh
+USR00122,31,Male,Student,TikTok,1.2,Yes,5.6,3.2,4.6,4.9,8.1,Low,Goa
+USR00123,19,Female,Student,Twitter/X,0.5,No,6.5,4.7,6.9,6.4,8,Low,Chhattisgarh
+USR00124,26,Male,Student,Instagram,5.2,Yes,4,5.8,5.6,4.7,6.3,Moderate,Uttarakhand
+USR00125,23,Male,Working Professional,Instagram,2.7,Yes,6.1,5.1,6.2,5.8,6.2,Moderate,kerala
+USR00126,41,Female,Student,Facebook,4.9,No,4.9,4.8,5.3,7.8,8.2,Low,kerala
+USR00127,41,Female,Working Professional,Instagram,2.9,Yes,8.5,4.4,4.5,7,5.2,High,Arunachal pardesh
+USR00128,37,Male,Student,Facebook,6.3,Yes,6.5,3.4,6.2,6.5,6.1,Moderate,Arunachal pardesh
+USR00129,26,Male,Working Professional,Facebook,3.8,Yes,7.3,0,6.3,6.4,8.4,Low,Arunachal pardesh
+USR00130,30,Female,Student,YouTube,4.2,Yes,9.6,3.3,2.1,6.7,8.1,Low,Rajasthan
+USR00131,38,Male,Freelancer,TikTok,5.6,No,,5.4,10,,5.8,High,Rajasthan
+USR00132,28,Male,Student,YouTube,3.6,Yes,10,5.2,5.9,8,6.8,Moderate,Chhattisgarh
+USR00133,33,Male,Student,Twitter/X,,Yes,8,3.7,9.3,6.6,7.5,Low,Arunachal pardesh
+USR00134,22,Female,Freelancer,,7.3,No,3.7,3.6,5.5,6.6,6.6,High,Assam
+USR00135,18,Male,Student,Instagram,4.4,No,6.3,6.5,7.8,6,7.4,Low,Arunachal pardesh
+USR00136,44,Male,Working Professional,TikTok,5.1,Yes,2.9,10,5.2,8.3,6.6,Moderate,Assam
+USR00137,27,Female,Student,YouTube,5.7,Yes,2.8,3.6,6.9,7.3,7.4,Moderate,Rajasthan
+USR00138,27,Female,Student,Snapchat,4.8,No,4.8,5.9,5.5,6.5,4.1,Severe,Punjab
+USR00139,30,Male,Student,Facebook,5.7,Yes,9.1,,6.6,5,6.6,Moderate,Uttarakhand
+USR00140,44,Male,Student,YouTube,8.7,Yes,7.2,7.5,4,7.9,5.8,High,Sikkim
+USR00141,23,Female,Working Professional,Facebook,6.9,Yes,3.9,5.7,3.8,5.4,6,Moderate,Sikkim
+USR00142,37,Non-binary,Student,TikTok,1.5,No,7.7,6.7,7.5,6.8,6.1,Moderate,Odisha
+USR00143,21,Male,Working Professional,Facebook,0.5,No,5.8,6.2,8,5.8,6.4,Moderate,Odisha
+USR00144,36,Female,Student,Twitter/X,2.7,Yes,4.8,3.7,6.4,8.6,6.6,Moderate,meghalaya
+USR00145,21,Male,Working Professional,TikTok,0.5,Yes,7.9,5.2,7.5,4.2,5.7,High,mizoram
+USR00146,36,Female,Working Professional,YouTube,0.5,No,4.7,4.9,3.8,6.3,7.6,Low,Maharashtra
+USR00147,27,Female,Freelancer,TikTok,2.3,No,0.9,6.7,2,6.4,6.3,Moderate,Rajasthan
+USR00148,42,Male,Working Professional,TikTok,2.5,Yes,3.3,0.2,3.5,7.2,7.8,Low,Nagaland
+USR00149,22,Female,Student,Snapchat,5,No,3.6,2.5,3.8,8.6,5.5,Moderate,Nagaland
+USR00150,32,Female,Student,Twitter/X,5.6,No,5.6,5.5,5.5,,7.4,Moderate,Haryana
+USR00151,25,Male,Working Professional,YouTube,9.3,No,5.7,1.7,6.7,5.5,5.8,High,Chhattisgarh
+USR00152,30,Male,Working Professional,Facebook,3,Yes,2.2,4.4,5.5,7,7.9,Low,Assam
+USR00153,20,Non-binary,Student,Snapchat,3.2,Yes,0,5.4,7.2,4.7,5.3,High,Arunachal pardesh
+USR00154,19,Female,Student,Instagram,5,No,6.9,3.2,5.4,5.6,6.9,Moderate,Arunachal pardesh
+USR00155,35,Female,Working Professional,Instagram,6.9,Yes,1.3,4.2,1.8,,7.3,Moderate,Bihar
+USR00156,24,Female,Working Professional,Snapchat,4,No,4.5,4.4,2.9,5.9,7.9,Moderate,Gujarat
+USR00157,24,Male,Student,,2.6,No,4.4,6.8,7.6,6.5,7.4,Low,Bihar
+USR00158,44,Male,Student,TikTok,0.5,No,4.8,8.7,4.6,4,5.8,High,kerala
+USR00159,41,Non-binary,Student,YouTube,6.4,Yes,6,7.9,3.2,4.9,6.8,Moderate,Karnataka
+USR00160,15,Male,Freelancer,Instagram,4,Yes,3.5,4.8,7.7,4.8,6,High,Nagaland
+USR00161,43,Non-binary,Student,Snapchat,7.9,Yes,4.9,6.3,4.8,5.9,7.7,Low,Goa
+USR00162,37,Female,Freelancer,TikTok,8.5,Yes,5.2,4.9,7.4,6.3,6.1,High,Gujarat
+USR00163,17,Female,Freelancer,YouTube,8.7,Yes,5.4,1.9,7.8,6,7.3,Moderate,Punjab
+USR00164,27,Male,Student,Facebook,5.6,Yes,7.8,3.3,6.7,7.2,5.6,High,Rajasthan
+USR00165,21,Male,Freelancer,TikTok,6.5,Yes,6.6,1.2,3.1,8.1,3.2,Severe,Odisha
+USR00166,23,Male,Student,Twitter/X,1.6,No,5.6,5.4,3.9,6.4,7.2,Low,meghalaya
+USR00167,17,Female,Student,Snapchat,5.5,Yes,7.1,5.8,9.2,,7.7,Low,Punjab
+USR00168,42,Male,Student,Twitter/X,3.8,No,7.2,4.1,0,6,8.4,Low,Manipur
+USR00169,25,Female,Student,YouTube,6.8,Yes,5.8,6.6,5.8,5.4,5.2,Severe,Maharashtra
+USR00170,29,Male,,Twitter/X,3.4,No,2.1,0.2,9.7,6,8.5,Low,Andhara pardesh
+USR00171,35,Female,Working Professional,Instagram,4,Yes,6.3,1.2,8.4,7.6,7.5,Moderate,Arunachal pardesh
+USR00172,32,Female,Freelancer,Snapchat,2.7,Yes,2.8,7.9,4.7,6.8,5.9,High,Arunachal pardesh
+USR00173,44,Female,Student,YouTube,8.5,Yes,5.3,5.1,7,6.8,5.9,Severe,Goa
+USR00174,21,Male,Student,Instagram,4.8,No,3.7,5,0.2,4.6,6,Moderate,Gujarat
+USR00175,25,,Unemployed,TikTok,2.4,Yes,5.2,5.5,4.1,4.7,6.2,Moderate,kerala
+USR00176,32,Male,Student,YouTube,3.7,No,5.3,3.5,7.1,6.5,7.5,Low,Assam
+USR00177,20,Male,Working Professional,Instagram,1.7,Yes,,1.6,,6.7,7.4,Moderate,Bihar
+USR00178,30,Female,Working Professional,Instagram,7.2,Yes,2.2,2,5.3,7.9,5.4,High,West bangal
+USR00179,32,Female,Working Professional,YouTube,7.2,No,10,6.1,7,6.9,5.5,High,West bangal
+USR00180,37,Female,Student,Snapchat,4.9,Yes,7.9,6,4.3,8.7,8,Low,Madhya pardesh
+USR00181,27,Male,Student,TikTok,5.2,No,,,3.5,,5.1,High,kerala
+USR00182,24,Male,Student,Twitter/X,1.4,Yes,4,4.5,3.9,4.1,7,Moderate,Punjab
+USR00183,23,Non-binary,Working Professional,Instagram,7.9,Yes,7.2,6.2,2.5,6.2,4.4,Severe,Odisha
+USR00184,43,Non-binary,Working Professional,Facebook,4.4,Yes,6,9.5,,8.2,7.8,Moderate,Odisha
+USR00185,37,Male,Freelancer,Snapchat,9,Yes,5.9,8.3,4,5.8,4.3,Severe,meghalaya
+USR00186,30,Female,Working Professional,YouTube,3.3,Yes,6.6,6,5.1,6.1,6.1,Moderate,Karnataka
+USR00187,20,Female,Student,TikTok,5.6,Yes,5.9,6,0.8,6.1,6,High,Maharashtra
+USR00188,24,Male,Freelancer,,6.4,Yes,,3.4,6.6,7.5,6.9,Moderate,Nagaland
+USR00189,38,Female,Student,Facebook,6.3,Yes,9.4,4.8,,7,6.7,Moderate,Haryana
+USR00190,36,Male,Student,TikTok,4.3,No,0.1,1.4,4.1,6.7,6.5,Moderate,kerala
+USR00191,19,Male,Student,Facebook,6.9,No,1.5,2.4,3.9,6.1,5.2,Moderate,Bihar
+USR00192,42,,Student,Instagram,5.4,Yes,6.8,2.4,7.3,5.8,6.9,Moderate,Karnataka
+USR00193,27,Female,Working Professional,TikTok,4.6,No,5.6,7.1,4.1,7.2,1.5,Severe,kerala
+USR00194,24,Male,Unemployed,Twitter/X,2.3,Yes,1.1,,8.6,5.3,7.8,Low,Arunachal pardesh
+USR00195,26,Female,Working Professional,Instagram,7.3,No,2.7,5,,6.6,5.9,Moderate,Arunachal pardesh
+USR00196,21,Male,Student,Instagram,4.6,Yes,4.1,,4.7,7,7.8,Low,Andhara pardesh
+USR00197,39,Non-binary,Freelancer,TikTok,5.6,Yes,6.8,4.5,6.9,5.4,7.6,Moderate,Arunachal pardesh
+USR00198,16,Female,Student,Twitter/X,4.4,Yes,4.7,,6.9,8.2,6,Moderate,Arunachal pardesh
+USR00199,36,Female,Student,TikTok,5.3,No,1.4,2.8,4.2,6.2,6.2,Moderate,Chhattisgarh
+USR00200,36,Male,Student,YouTube,3.7,Yes,7.3,3.1,6.2,10,7.5,Low,Chhattisgarh
+USR00201,26,Male,Freelancer,YouTube,10.1,Yes,7.5,7.4,2.6,5.5,3.5,Severe,Chhattisgarh
+USR00202,43,Female,Working Professional,Instagram,8.5,Yes,6.8,4.5,7.8,6.7,7.7,Low,Bihar
+USR00203,39,Male,Freelancer,Instagram,6,Yes,6.8,5.8,7.2,4,3.7,Severe,meghalaya
+USR00204,34,Female,Working Professional,TikTok,5.1,No,4,9.1,2.7,7.4,8,Low,Haryana
+USR00205,38,Male,Working Professional,Instagram,6,Yes,4.6,0.8,5.3,6.6,5.4,High,kerala
+USR00206,38,Male,Freelancer,YouTube,2.7,Yes,2.3,4.6,8.5,6.5,7.7,Low,Odisha
+USR00207,40,Male,Student,TikTok,5.8,Yes,4.5,3.4,6.6,4.1,5,Severe,Tamil nadu
+USR00208,27,Female,Student,YouTube,4.3,Yes,4.7,5.3,6.2,7.4,5.6,High,Telangana
+USR00209,27,,Freelancer,Twitter/X,3.6,No,3,4.7,6.7,6.8,6.5,Moderate,Telangana
+USR00210,28,Male,Working Professional,Twitter/X,3,Yes,5.2,,6.1,6.2,4.4,Severe,Tripura
+USR00211,19,Female,Student,Facebook,3.1,Yes,8.3,2.3,4.7,7.1,6.1,Moderate,Tripura
+USR00212,22,Male,Working Professional,YouTube,5.6,No,3.9,2.7,2.7,6.9,5.4,High,Telangana
+USR00213,36,Non-binary,Working Professional,TikTok,4.6,Yes,5,,2.6,6.4,4.6,Severe,Tripura
+USR00214,41,Female,Working Professional,Instagram,2.8,Yes,5.6,5,3.5,8.2,7.7,Moderate,Karnataka
+USR00215,24,Male,Working Professional,TikTok,5.4,Yes,0.2,3.5,2.1,7.6,4.8,Severe,Bihar
+USR00216,21,Female,Working Professional,Twitter/X,4.8,No,2.7,4,4.7,3.7,8.1,Low,Punjab
+USR00217,30,,Student,Snapchat,4.3,Yes,4.5,6.5,6.3,5.7,6.3,Moderate,Telangana
+USR00218,26,Male,Working Professional,Instagram,7.7,No,0.3,7.1,8.4,7.1,7.6,Low,Tripura
+USR00219,42,Male,Freelancer,Instagram,4,No,6.4,3.8,3.7,6.8,7.8,Low,Odisha
+USR00220,33,Male,Freelancer,Instagram,1.6,No,2.5,5.1,7.6,6.4,5.4,Severe,meghalaya
+USR00221,43,Female,Student,Instagram,4.8,Yes,5.8,5.1,3.6,5.4,6.7,Moderate,Manipur
+USR00222,31,Non-binary,Student,Instagram,2.4,Yes,3.1,1.8,6.1,7.7,7.5,Low,Nagaland
+USR00223,20,Female,Student,TikTok,6.3,No,,3.3,8.1,4.6,7,Moderate,Bihar
+USR00224,18,Male,Student,TikTok,5.8,No,3.8,4.8,3,6.7,6.9,Moderate,Arunachal pardesh
+USR00225,28,Male,Student,Snapchat,3.8,Yes,2.3,8.2,8.3,6.7,8.8,Low,Arunachal pardesh
+USR00226,15,Female,Student,Instagram,5.6,No,9.2,2.9,4.5,8.6,5.5,High,Andhara pardesh
+USR00227,36,Female,Working Professional,Facebook,3.6,Yes,0.2,5.3,8.3,5.4,8.1,Low,Arunachal pardesh
+USR00228,38,Male,Student,YouTube,3.5,Yes,4.7,4,4.4,7.7,5.6,High,Chhattisgarh
+USR00229,16,Female,Working Professional,Instagram,0.7,No,3.7,5.1,6.4,7.2,7,Moderate,Chhattisgarh
+USR00230,28,Non-binary,Student,Twitter/X,0.5,No,7,4.3,6.1,5.9,7,Moderate,Goa
+USR00231,23,Male,Unemployed,Snapchat,3.6,No,7.5,5,4.9,6.6,5.4,Severe,Odisha
+USR00232,35,Male,Student,Instagram,8.3,Yes,,3.1,6.3,5.1,6.3,High,Gujarat
+USR00233,42,Female,Freelancer,Snapchat,1.9,Yes,6.4,7,2.3,7,6.3,Moderate,Gujarat
+USR00234,29,Male,Working Professional,,4.3,No,6.1,2.1,7.2,6,7.5,Low,kerala
+USR00235,28,Male,Freelancer,Instagram,3.1,No,3.1,6.3,2.9,6.4,5.2,High,Nagaland
+USR00236,24,Male,Working Professional,TikTok,5.6,Yes,6.1,5.9,5,6.2,5.2,Severe,Tamil nadu
+USR00237,25,Female,Student,Instagram,2.7,No,0,6.2,5.8,6.6,8,Low,Telangana
+USR00238,15,Male,Working Professional,Instagram,4.3,Yes,9.9,4.2,4.3,8.4,8.1,Low,Tripura
+USR00239,17,Male,Student,YouTube,5.4,Yes,,4.7,3.8,8.1,6,Moderate,Tripura
+USR00240,31,Female,Working Professional,Facebook,3.4,No,4.9,3.4,2.9,6.4,6.2,Moderate,Tripura
+USR00241,38,Female,Working Professional,Instagram,4.2,Yes,3.9,1.3,3.8,6.1,4.1,Severe,Tamil nadu
+USR00242,21,Female,Student,Facebook,4,Yes,5.7,4,3.4,7.2,7.3,Low,Tripura
+USR00243,33,Male,Freelancer,Snapchat,5.6,No,5,5,,6.2,4,Severe,Arunachal pardesh
+USR00244,24,Non-binary,Working Professional,TikTok,5.8,Yes,5.2,7.4,6.6,6.4,3.5,Severe,Arunachal pardesh
+USR00245,24,Male,Working Professional,Twitter/X,6.1,Yes,2,4.5,7.6,3.9,5.6,High,Goa
+USR00246,28,Female,Working Professional,Instagram,5.4,No,8.6,,8.3,8.3,7.6,Moderate,Haryana
+USR00247,36,Male,Freelancer,Instagram,2.4,No,4,0.2,6.4,3.9,6,High,Haryana
+USR00248,26,Female,Student,Twitter/X,3.6,No,2.6,3.8,8.3,7.9,7.7,Low,Himachal pardesh
+USR00249,16,Male,Student,Instagram,5.6,Yes,5.4,0,5.7,7.9,4.3,Severe,Himachal pardesh
+USR00250,29,Male,Student,Twitter/X,4.6,Yes,6.9,2.5,5.2,9.3,5.4,Severe,Himachal pardesh
+USR00251,31,Non-binary,Unemployed,Snapchat,6.4,Yes,8.5,2.2,8.9,5.1,5.6,High,Himachal pardesh
+USR00252,31,Male,Working Professional,,1.8,No,9.1,6.8,5.4,5.4,6,High,Goa
+USR00253,40,Female,Working Professional,Twitter/X,2.6,Yes,5.5,9.3,2.6,7.6,5.9,High,Gujarat
+USR00254,32,Non-binary,Student,Instagram,2.7,No,5.5,7.6,10,3.9,6.3,Moderate,Gujarat
+USR00255,29,Male,Unemployed,Instagram,5.1,,7.1,6.4,6.3,6.2,3.8,Severe,Goa
+USR00256,16,Male,Student,TikTok,3.1,Yes,5.7,4.1,3.8,7.3,5.7,Severe,Chhattisgarh
+USR00257,36,Female,Working Professional,YouTube,2.6,Yes,4.6,5.4,5.5,8.7,4.6,Severe,Chhattisgarh
+USR00258,34,Male,Student,Twitter/X,5.2,Yes,3.9,5.5,6.3,7.5,4.7,Severe,Tripura
+USR00259,33,Male,,Instagram,3.6,Yes,3.4,8.1,5.2,4.5,5.6,Severe,Telangana
+USR00260,15,Female,Student,Instagram,2.2,Yes,6.4,,3.5,3.2,5.4,Severe,Himachal pardesh
+USR00261,28,Male,Working Professional,TikTok,5.4,No,3.4,7.1,6.3,6,7.2,Moderate,Arunachal pardesh
+USR00262,41,Male,Working Professional,Facebook,4.3,Yes,4.4,7.7,8,7.2,9,Low,Andhara pardesh
+USR00263,25,Male,Student,TikTok,5.5,No,6.2,5,2.9,6.5,4.3,Severe,Himachal pardesh
+USR00264,35,Female,Working Professional,Instagram,5.7,No,4.5,4.1,7.5,7,5.9,Moderate,Goa
+USR00265,41,Female,Student,YouTube,3.2,No,8.3,2.8,6.4,8.6,7,Moderate,Gujarat
+USR00266,42,Female,Freelancer,YouTube,3.9,Yes,5.1,2.3,6,6,7.5,Low,Haryana,Uttarakhand
+USR00267,43,Male,Working Professional,TikTok,4.2,Yes,6,3.3,8.1,7.1,6.1,High,Uttar pardesh
+USR00268,23,Female,Student,Snapchat,5.9,,5.7,5.6,7.5,4.7,6.7,Moderate,Odisha
+USR00269,38,Male,Student,Snapchat,4.4,Yes,1.6,4.9,4.7,6,6.9,Moderate,Karnataka
+USR00270,16,Female,Working Professional,Instagram,6.7,Yes,5.5,6,10,5.1,6.4,Moderate,kerala
+USR00271,19,Male,Student,Facebook,3.3,Yes,1.3,5.8,3.5,6.2,7.2,Low,Rajasthan
+USR00272,40,Non-binary,Student,YouTube,4.5,No,2.4,10,3.6,8.5,6.3,Moderate,Rajasthan
+USR00273,27,Female,Working Professional,Twitter/X,7.2,No,2.7,7,7.2,3.7,7.1,Moderate,Himachal pardesh
+USR00274,34,Female,Working Professional,Instagram,1.5,Yes,4.9,2.4,1.2,6.8,8,Low,Himachal pardesh
+USR00275,37,,Unemployed,Facebook,1.8,No,7.1,1.7,5.9,5.6,8.2,Low,Himachal pardesh
+USR00276,25,Female,Working Professional,Snapchat,5.9,Yes,4.3,4,7,,6.8,Moderate,Sikkim
+USR00277,43,Female,Freelancer,YouTube,6.1,No,7.6,3.4,6.2,6,7.8,Moderate,Sikkim
+USR00278,22,Female,Student,Instagram,6.5,Yes,8.6,6.2,8.1,5.5,5.9,High,Bihar
+USR00279,32,Female,Working Professional,YouTube,6.3,Yes,6.6,5,7.8,6.8,4.6,Severe,Bihar
+USR00280,30,Male,Student,Facebook,6.7,Yes,6.7,5.5,5.4,7.5,8.6,Low,Odisha
+USR00281,15,Male,Student,Facebook,3.4,No,2.7,3.8,6.2,7.9,6.1,Moderate,meghalaya
+USR00282,33,Female,Student,YouTube,4.5,Yes,2.6,7.3,,7.6,7.9,Low,mizoram
+USR00283,22,Male,Working Professional,Instagram,5.7,No,3,7.9,5.4,6.6,6,High,Madhya pardesh
+USR00284,27,Non-binary,Working Professional,Instagram,1.9,Yes,6,2.2,9.7,6.2,5,High,Manipur
+USR00285,31,Female,Student,YouTube,1.8,Yes,4.8,6.1,1.7,6.6,4.2,Severe,mizoram
+USR00286,15,Male,Student,Instagram,3.2,No,7.6,6,4.4,7.8,6.9,Moderate,Maharashtra
+USR00287,27,Non-binary,Unemployed,TikTok,6.6,No,6.3,0,1,7.4,4.6,Severe,Maharashtra
+USR00288,24,Male,Working Professional,Snapchat,6.1,No,3,6,,5.7,6.6,Moderate,Maharashtra
+USR00289,29,Female,Freelancer,YouTube,1.7,No,4.7,2,7.1,7.2,6.5,Moderate,mizoram
+USR00290,39,Female,Unemployed,TikTok,3.3,No,7.9,2.5,,6.3,6.8,High,meghalaya
+USR00291,17,Female,Working Professional,Instagram,3.3,Yes,2.9,5,2.1,8.3,6.2,Moderate,meghalaya
+USR00292,31,Male,Unemployed,Twitter/X,4.6,No,3.4,9.8,9,8.2,6.9,Moderate,Bihar
+USR00293,26,Female,Unemployed,Instagram,4.9,Yes,6.1,4,1.6,4.9,6.7,High,Nagaland
+USR00294,20,Female,Freelancer,Instagram,4.5,Yes,4.6,4.4,6.9,7.1,7.8,Low,Nagaland
+USR00295,36,Male,Working Professional,YouTube,2.5,Yes,3.4,6.5,3.8,4.2,6.6,Moderate,Tamil nadu
+USR00296,31,Male,Student,Instagram,6.8,Yes,2.7,3.8,9.1,6.1,6.1,Moderate,mizoram
+USR00297,24,Non-binary,Student,Instagram,6.6,Yes,7.5,5.9,6.5,5.4,6.1,Moderate,Himachal pardesh
+USR00298,26,Non-binary,Student,Facebook,2.3,Yes,6.7,5.3,5.9,7.2,6.8,Moderate,Himachal pardesh
+USR00299,25,Female,Student,YouTube,4.1,No,3.5,4.3,3.8,3,7.2,Low,Andhara pardesh
+USR00300,15,Male,Working Professional,Instagram,6.7,No,4.9,4.3,5.8,7.6,5.7,High,Arunachal pardesh
+USR00301,23,Non-binary,Working Professional,Twitter/X,5.2,Yes,,0.4,8.3,,7.9,Low,Andhara pardesh
+USR00302,19,Male,Working Professional,Facebook,5.4,Yes,3.1,4.9,9,5.1,4.7,Severe,Himachal pardesh
+USR00303,20,Male,Student,Instagram,3.5,No,0,2.8,10,7.3,6.8,High,Punjab
+USR00304,43,Female,Working Professional,YouTube,7.5,No,3.1,4.2,4.6,5,5.3,High,meghalaya
+USR00305,26,Female,Student,TikTok,2.2,Yes,6.6,6.3,3.9,5.5,6.2,High,Nagaland
+USR00306,44,Male,Student,TikTok,6.4,,0.1,5.3,7.3,7,7,Low,Madhya pardesh
+USR00307,32,,Working Professional,YouTube,,No,7.3,7,10,5.4,5.9,Moderate,Nagaland
+USR00308,44,Male,Student,,2.9,Yes,1.2,9.4,3.5,5.4,8.6,Low,Bihar
+USR00309,29,Male,Working Professional,Instagram,7.3,Yes,4.2,5.3,1.8,7.2,6.8,Moderate,meghalaya
+USR00310,25,Male,Student,,6.2,No,4,5.3,3.2,7.7,6.3,High,mizoram
+USR00311,35,Male,Working Professional,YouTube,,Yes,7,0,5,4.5,6.4,Moderate,meghalaya
+USR00312,31,Male,Student,Twitter/X,4.8,No,6.6,6.2,3,6.4,7.2,Low,mizoram
+USR00313,22,Male,Student,YouTube,7.5,Yes,5.6,4.2,5.2,6.7,4.5,Severe,Madhya pardesh
+USR00314,43,Male,Working Professional,YouTube,3.6,Yes,2.9,1.5,4.7,7.5,7.2,Low,Manipur
+USR00315,30,Female,Working Professional,YouTube,3.5,Yes,4.5,,4.8,7.9,6.6,Moderate,Maharashtra
+USR00316,41,Male,Working Professional,Snapchat,0.5,Yes,4.7,4.7,4.5,6.8,7.8,Low,Manipur
+USR00317,33,Male,Student,YouTube,1,Yes,3.8,2.1,2.6,9.3,7.1,High,Maharashtra
+USR00318,31,Female,Working Professional,Instagram,3.7,No,3.6,6.1,3.7,7.8,8.2,Low,kerala
+USR00319,29,Female,Student,Twitter/X,4.2,Yes,4.6,3.8,4.6,8.4,8.3,Low,kerala
+USR00320,30,Male,Unemployed,TikTok,5.7,No,6.8,5.4,8.1,5,8.8,Low,Karnataka
+USR00321,28,Male,Unemployed,Facebook,6.3,No,6.3,4.4,6.4,7.8,7,Low,Karnataka
+USR00322,34,Female,Freelancer,Instagram,8.6,Yes,5.7,5,3.3,4.3,8,Low,Odisha
+USR00323,24,Female,Student,Twitter/X,6,Yes,4.3,5.2,6.5,4.7,8.5,Low,meghalaya
+USR00324,28,Non-binary,Working Professional,TikTok,10.6,No,3.7,2.3,7.3,5.2,5.9,High,mizoram
+USR00325,39,Female,Unemployed,Facebook,6.1,Yes,4.5,5.9,4.7,7.7,7.7,Low,Madhya pardesh
+USR00326,18,Female,Working Professional,Instagram,7.3,No,4.1,6.4,,6.8,4.6,Severe,Maharashtra
+USR00327,22,Male,Working Professional,Twitter/X,2.8,No,4.8,4.4,7.6,7.9,8,Low,Rajasthan
+USR00328,32,Male,Student,Instagram,5.5,No,4.1,3.9,8.6,6.6,8.3,Low,Himachal pardesh
+USR00329,25,Male,Student,Twitter/X,6.5,Yes,3.6,3.8,2.5,7.3,6.9,Low,Assam
+USR00330,15,Female,Working Professional,TikTok,6.5,No,10,4.6,4.8,7.8,6.7,Moderate,Nagaland
+USR00331,16,Female,Working Professional,TikTok,3.6,Yes,4.5,1.2,3.5,6.8,6.2,Moderate,Bihar
+USR00332,26,Male,Working Professional,YouTube,4.4,Yes,0,3.9,8.2,7,8.3,Moderate,kerala
+USR00333,42,Male,Student,YouTube,,No,3.7,1.8,4.4,4.8,8.4,Low,Punjab
+USR00334,19,Male,Student,Instagram,5.2,Yes,3.8,5.9,4.8,5.8,6.2,Moderate,meghalaya
+USR00335,21,Female,Freelancer,YouTube,2.3,Yes,7.7,3.1,,8.4,6.4,Moderate,mizoram
+USR00336,44,Male,Student,TikTok,6.6,No,,5.2,7,5.4,7.1,Moderate,Nagaland
+USR00337,42,Male,Unemployed,TikTok,5.1,No,6.7,6.1,6.4,10,8.6,Low,Bihar,Chhattisgarh
+USR00338,32,Male,Student,Instagram,,Yes,3.4,1.9,4.2,4.9,5.4,Severe,Odisha
+USR00339,44,Male,Working Professional,Snapchat,5.8,No,5.4,3.3,,,6.3,Moderate,Himachal pardesh
+USR00340,29,Female,Working Professional,Twitter/X,5.5,No,,5,4.7,8,7.5,Low,Haryana
+USR00341,27,Female,Working Professional,Instagram,6.2,No,4.6,7.6,7.5,5.6,4.6,Severe,Punjab
+USR00342,26,Female,Freelancer,Facebook,4.7,Yes,0,4.9,8.1,6.4,7.1,Moderate,Nagaland
+USR00343,27,Non-binary,Working Professional,Snapchat,1.1,Yes,2.7,5.1,4.6,7.8,8.2,Low,Tamil nadu
+USR00344,31,Female,Freelancer,YouTube,7.2,Yes,6.7,4.3,2.2,7.7,5.4,High,meghalaya
+USR00345,32,Male,Student,TikTok,3,Yes,3.9,3.5,6.6,7.1,7.4,Low,Bihar
+USR00346,41,Male,Student,Twitter/X,6.5,Yes,2.4,6.6,5.8,6.2,4.8,Severe,West bangal
+USR00347,41,Male,Student,YouTube,5.7,No,5.2,3.2,0.7,7.2,4.9,Severe,Chhattisgarh
+USR00348,15,Male,Student,TikTok,5.3,No,8.5,3.3,1.9,5.3,5.1,Severe,Goa
+USR00349,43,Female,Working Professional,,4.9,Yes,5.1,4.7,3.9,7.1,5.7,Severe,Gujarat
+USR00350,26,Female,Working Professional,YouTube,5.1,Yes,6.3,1.1,2.5,3.8,6.3,High,meghalaya
+USR00351,16,Male,Working Professional,Snapchat,4.9,No,4.6,4.6,4,8.7,5.7,High,mizoram
+USR00352,23,Non-binary,Working Professional,Facebook,4.6,No,4.7,5.6,6.3,4.8,8.1,Low,Tamil nadu
+USR00353,35,Female,Working Professional,TikTok,4.3,Yes,5.5,,4.9,7.4,5.1,Severe,Telangana
+USR00354,16,Male,Student,Instagram,5.1,Yes,7.2,3.2,6.1,7.2,8.8,Low,Tripura
+USR00355,30,Female,Freelancer,Facebook,5.8,No,3.5,7.9,2,8.8,5.2,High,meghalaya
+USR00356,37,Female,Working Professional,YouTube,3.6,Yes,3.8,10,5,7.3,5.3,High,kerala
+USR00357,39,Female,Working Professional,Instagram,5,Yes,8.9,5.4,5.5,8.7,7.5,Moderate,Telangana
+USR00358,36,Non-binary,Unemployed,TikTok,1.7,No,9.1,6,3,7.3,4.9,High,Karnataka
+USR00359,17,Non-binary,Student,Facebook,2.8,No,5.8,8.8,5.7,4.5,7,Moderate,Punjab
+USR00360,27,Male,Working Professional,Instagram,0.9,Yes,5.7,3.7,6.5,7,6.6,Moderate,Haryana
+USR00361,19,Male,Working Professional,TikTok,4,Yes,3.9,2.4,4.7,7.6,6.8,Low,Gujarat
+USR00362,27,Male,Student,Instagram,5.3,,2.8,4.4,5.8,,6.4,Moderate,Bihar
+USR00363,38,Male,Working Professional,Facebook,6,No,2.1,6.6,,6.2,8,Low,West bangal
+USR00364,35,Male,Working Professional,Instagram,1.7,,5.1,2.9,6.3,8.3,6.9,Moderate,Himachal pardesh
+USR00365,26,Male,Working Professional,Snapchat,6.2,No,4.8,2.8,8.5,5.8,5.5,Severe,Himachal pardesh
+USR00366,32,Female,Student,YouTube,2.4,Yes,6.8,5.7,6.8,6,4.3,Severe,Andhara pardesh
+USR00367,33,Male,Working Professional,TikTok,3.7,No,5.1,0.9,4.1,7.7,4.1,Severe,Andhara pardesh
+USR00368,39,Male,Student,TikTok,3.5,Yes,6.8,4.7,5.8,7.8,6.4,Moderate,Arunachal pardesh
+USR00369,36,Female,Student,Twitter/X,7.8,No,0.4,2.8,6.7,7.1,8.1,Low,meghalaya
+USR00370,33,Female,Student,YouTube,4.9,Yes,8.1,6.5,7,4.9,5.1,High,kerala
+USR00371,40,Male,Freelancer,TikTok,8.9,Yes,9.9,4,7.4,9.4,5,Severe,Karnataka
+USR00372,37,Female,Student,YouTube,6.6,No,9.7,5.6,6.5,5.4,6.5,Moderate,Goa
+USR00373,33,Male,Freelancer,YouTube,4,,4.4,6.4,5.1,8.3,6.7,Moderate,Nagaland
+USR00374,20,Male,Working Professional,TikTok,5.4,No,4.1,0.8,5.8,7.4,7.2,Low,Bihar
+USR00375,22,Female,Working Professional,Facebook,7.4,No,2.4,4.7,6,,6.6,Moderate,Himachal pardesh
+USR00376,38,Male,Student,Twitter/X,2.7,Yes,2,5.3,3.3,9.8,6.8,Moderate,Himachal pardesh
+USR00377,20,Female,Unemployed,TikTok,3.5,Yes,5.7,5.4,6.1,5.7,6.1,High,Himachal pardesh
+USR00378,20,Non-binary,Working Professional,YouTube,4.4,Yes,6.1,4.9,7.1,5,6.7,High,West bangal
+USR00379,21,Female,Student,YouTube,3.9,Yes,1.4,6,7.6,6.7,6.2,Moderate,West bangal
+USR00380,44,Non-binary,Freelancer,Facebook,4,No,1.3,2.6,1.3,7.4,6.5,Moderate,West bangal
+USR00381,31,Male,Working Professional,TikTok,8.1,No,6.4,4.6,1.7,6.1,5.9,High,West bangal
+USR00382,25,Male,Freelancer,TikTok,4.8,,5.3,5,6.4,7.8,6.9,Moderate,Sikkim
+USR00383,37,Non-binary,Working Professional,YouTube,3.9,No,5.8,4.5,8.2,6.4,5.8,High,Sikkim
+USR00384,29,Female,Unemployed,TikTok,3.7,No,4.7,6.4,7.6,4.6,5.2,High,Sikkim
+USR00385,19,Female,Freelancer,Snapchat,1.7,Yes,2.5,5.8,6.7,,9.1,Low,Sikkim
+USR00386,29,Female,Working Professional,YouTube,6.2,No,,0,5.4,7.5,4.8,Severe,Chhattisgarh
+USR00387,21,Male,,TikTok,3.2,No,5.9,0.9,8.8,7.9,6.3,Moderate,Chhattisgarh
+USR00388,28,Male,Student,Snapchat,12,Yes,7.5,5.1,3,7.6,3.7,Severe,Goa
+USR00389,17,Male,Freelancer,YouTube,5.5,No,1,6.2,3.8,7.8,4.7,Severe,Gujarat
+USR00390,27,Non-binary,Working Professional,Facebook,3.3,Yes,5.5,8.2,9.1,6,6.9,Moderate,Goa
+USR00391,37,Male,Unemployed,Instagram,2,Yes,3,8,2.7,7.9,6.8,Moderate,meghalaya
+USR00392,39,Non-binary,Working Professional,Instagram,3.5,Yes,4.4,5.5,6.1,6.1,6.3,Moderate,Nagaland
+USR00393,44,Male,Working Professional,YouTube,5.4,No,4.5,6.1,7.3,4.7,9.2,Low,kerala
+USR00394,42,Female,Working Professional,Instagram,3.3,No,6.7,,7.4,5,6.6,Moderate,Karnataka
+USR00395,42,Female,Working Professional,Facebook,5.8,Yes,6.4,4,3.1,6.7,6.9,Low,Uttarakhand
+USR00396,38,Male,Working Professional,TikTok,6,No,3.9,4.3,8,6.8,7.4,Low,Uttarakhand
+USR00397,31,Female,Unemployed,Snapchat,5.7,Yes,6.1,5.1,4,3.7,7.3,Moderate,Uttar pardesh
+USR00398,29,Female,Working Professional,YouTube,5.6,Yes,0.9,5,8.8,7.3,6.8,Low,Maharashtra
+USR00399,43,Female,,Instagram,,No,3.4,4.7,3.5,6,5.4,High,Maharashtra
+USR00400,20,Female,Student,TikTok,3.1,Yes,5.4,3.7,6.5,7.6,6,Moderate,Punjab
+USR00401,23,Female,Student,YouTube,1.9,No,4.8,7.3,2,6.5,7.2,Moderate,Madhya pardesh
+USR00402,44,Female,Working Professional,TikTok,1.1,Yes,6.5,7,,4.6,7.4,Low,Nagaland
+USR00403,24,Male,Working Professional,Instagram,3.6,Yes,4,3.9,3.8,4.7,6.2,High,Odisha
+USR00404,27,Non-binary,Student,Facebook,5.9,Yes,2.4,3.3,7.7,7.1,7.1,Moderate,Odisha
+USR00405,38,Female,Working Professional,TikTok,4.5,Yes,7.5,,6.3,6.4,6.8,Moderate,Chhattisgarh
+USR00406,22,Male,Unemployed,YouTube,2.3,Yes,7.7,3,6.7,6.1,7.6,Low,Sikkim
+USR00407,29,Non-binary,Working Professional,YouTube,6.4,Yes,4.5,1.1,4.2,8.2,6.2,High,Sikkim
+USR00408,21,Male,Working Professional,TikTok,2.5,Yes,5.4,3.2,4.7,8.4,3.6,Severe,Sikkim
+USR00409,17,Female,Working Professional,Twitter/X,2.1,No,6,3,7,8,7.9,Low,Sikkim
+USR00410,20,Female,Freelancer,Instagram,2.5,Yes,10,4,6.5,8.7,7.8,Low,Assam
+USR00411,37,Female,Student,Facebook,3.1,No,7.2,6.4,8.2,5.3,7.8,Low,Assam
+USR00412,32,,Working Professional,YouTube,4.3,Yes,3.4,7.8,7.3,6.2,8.2,Low,Assam
+USR00413,29,Male,Working Professional,Instagram,1.9,Yes,8.3,4,5.1,7.7,7,Moderate,Tamil nadu
+USR00414,24,Female,Student,Twitter/X,1.1,Yes,5.2,3.5,3.4,7.1,6.3,High,kerala
+USR00415,18,,Working Professional,TikTok,5.4,No,6.3,3.7,2.8,5.3,6.5,High,Telangana
+USR00416,30,Female,Student,Facebook,5,No,6.8,,7.8,5.9,8.2,Low,Tripura
+USR00417,35,Male,Student,TikTok,5.5,No,4.5,0,6.4,6.9,3.5,Severe,Tripura
+USR00418,15,Female,Student,Twitter/X,6.1,,6.8,3.9,10,5.9,6.2,Moderate,Tripura
+USR00419,18,Female,Student,Instagram,4.6,Yes,1.6,3.8,6.1,8.5,5.2,Severe,Rajasthan
+USR00420,36,Female,Working Professional,YouTube,8.2,No,5.4,7.9,3.1,7.4,8,Low,Rajasthan
+USR00421,21,Female,Student,Instagram,4.1,No,6.6,5.9,5.2,6.1,7.4,Low,kerala
+USR00422,35,Female,Freelancer,Facebook,4.4,Yes,9,9.8,,6.1,6.8,Moderate,Telangana
+USR00423,15,Female,Student,TikTok,7.2,No,4.8,6.7,2.6,8.3,4.9,Moderate,kerala
+USR00424,35,Female,Freelancer,Twitter/X,5.3,Yes,6.7,2.8,6.9,8.1,5.6,High,meghalaya
+USR00425,16,Male,Working Professional,Twitter/X,4.2,No,4.7,7.4,5.7,5.2,6.7,Low,mizoram
+USR00426,36,Female,Student,Instagram,4.5,No,7.2,2.6,4.1,7,7.4,Moderate,Sikkim
+USR00427,17,Female,Freelancer,TikTok,2,No,3.1,3.8,5.2,8,6.2,High,Sikkim
+USR00428,26,Female,Working Professional,Snapchat,5.9,No,3.3,7.6,4.1,5,8.2,Moderate,meghalaya
+USR00429,30,Male,Student,TikTok,4,No,5.9,6.9,7.9,6.4,9.6,Low,Nagaland
+USR00430,26,Male,Freelancer,Instagram,5.4,,6.4,4.8,4.6,3,4.8,High,Tamil nadu
+USR00431,19,Non-binary,Student,Facebook,7.2,No,7.4,0,4,8,5.5,High,Andhara pardesh
+USR00432,23,Female,Working Professional,,6.1,No,5,2.6,4.5,6.6,6,High,meghalaya
+USR00433,28,Male,Working Professional,Twitter/X,5,No,1.9,3.2,4.4,5.3,9,Low,Sikkim
+USR00434,26,Female,Working Professional,Instagram,5.3,Yes,7.6,6.2,5.5,6.8,7.2,Low,Odisha
+USR00435,44,Female,Working Professional,YouTube,4.8,Yes,4,6,4.7,4.5,6.5,Low,Odisha
+USR00436,22,Female,Freelancer,TikTok,8,Yes,7.5,4.9,5.8,6.3,4,Severe,Odisha
+USR00437,36,Female,Working Professional,Twitter/X,0.6,Yes,7.9,2.2,5,5.7,6.1,Moderate,Uttar pardesh
+USR00438,22,Male,Student,Instagram,3.6,Yes,5,0,6.1,5.4,6.6,Moderate,Uttar pardesh
+USR00439,36,Male,Working Professional,Snapchat,,Yes,5.6,5,8.4,5.1,8.2,Low,Uttarakhand
+USR00440,34,Male,Working Professional,Instagram,5.4,Yes,4.4,1.3,7.5,6.1,6.6,Moderate,Uttarakhand
+USR00441,22,Male,Student,YouTube,4.1,No,7.9,,4,6.8,7.4,Low,meghalaya
+USR00442,37,Male,Working Professional,TikTok,4.7,Yes,6,6.5,6,5,7.5,Low,kerala
+USR00443,28,Female,Working Professional,Snapchat,8.5,No,3,1.1,5.4,3.4,6.6,Moderate,Haryana
+USR00444,33,Female,Working Professional,Twitter/X,5.1,No,10,5.5,5,7.6,7.9,Low,Himachal pardesh
+USR00445,18,Female,Student,TikTok,6.3,Yes,3.6,5.3,4.7,5,6.3,Moderate,meghalaya
+USR00446,32,Non-binary,Working Professional,TikTok,3.7,No,5.5,6.6,5.2,6.8,8.4,Low,Punjab
+USR00447,16,Male,Working Professional,TikTok,3.1,Yes,3.5,8.8,7.1,6.8,7.3,Low,Gujarat
+USR00448,23,Male,Working Professional,,2.4,No,7.3,6.5,6.6,7.3,7.4,Low,Gujarat
+USR00449,35,Female,Freelancer,TikTok,7.5,Yes,6.8,6.9,6,4.7,7.7,Low,Goa
+USR00450,30,Female,Student,,2.2,Yes,2,2.4,4.9,6.9,8.1,Low,Goa
+USR00451,25,Male,Student,Instagram,3.5,,6.8,8.1,,4.8,8.4,Low,Gujarat
+USR00452,33,Non-binary,Student,Twitter/X,9.3,No,8.7,3.9,2,6.1,4.6,Severe,Gujarat
+USR00453,42,Female,Freelancer,,5.3,No,4.3,3.9,6.3,8.5,4.6,Severe,Assam
+USR00454,42,Female,Freelancer,Twitter/X,4.6,No,3.3,5.2,9.4,6.3,8,Low,Bihar
+USR00455,32,Male,Student,Instagram,4,Yes,4.5,0.4,7.4,8.2,10,Low,West bangal
+USR00456,41,Female,Freelancer,Twitter/X,2.1,Yes,6.7,6.5,7.4,4.6,7.6,Low,Sikkim
+USR00457,22,Male,Working Professional,YouTube,5.3,Yes,3,7.1,2.7,7.5,6.8,Moderate,Sikkim
+USR00458,15,Male,Unemployed,Instagram,6.6,Yes,6.6,2.9,5.6,6,5.5,High,Nagaland
+USR00459,23,Female,Working Professional,Snapchat,2.7,Yes,2,5.5,4.5,7.3,7.8,Low,kerala
+USR00460,28,Female,Freelancer,YouTube,3.5,Yes,4.2,1.3,5.1,8.3,4.4,Severe,Nagaland
+USR00461,39,Female,Working Professional,YouTube,8,No,6.8,6.7,2.4,6.9,5.5,Severe,kerala
+USR00462,27,Male,Student,Instagram,3.8,Yes,3.5,3.9,5.9,6.4,6.4,Moderate,Karnataka
+USR00463,32,Male,Freelancer,Instagram,6.1,Yes,8,7.8,4.6,5.6,4.2,Severe,Goa
+USR00464,17,Non-binary,Student,TikTok,9.3,Yes,6.8,3.3,7.7,,6.1,High,Gujarat
+USR00465,18,Non-binary,Freelancer,Facebook,2.7,Yes,6.7,3.1,5,7.1,7.3,Low,Sikkim
+USR00466,43,Female,Working Professional,TikTok,4.4,No,2.1,5.2,6.2,9.2,5.5,Moderate,kerala
+USR00467,15,Male,Student,Twitter/X,2.6,Yes,4.5,,3.9,4.4,6.3,High,Sikkim
+USR00468,41,Male,Working Professional,Instagram,0.5,Yes,4.5,,5.2,5.2,6.2,High,Uttarakhand
+USR00469,32,Male,Freelancer,Facebook,7.2,Yes,8.6,1.4,6.5,5.4,6.4,High,Uttarakhand
+USR00470,26,Female,Student,Facebook,5.8,No,2.8,4.3,8.8,5.6,6.4,Moderate,Uttar pardesh
+USR00471,16,Male,Student,Instagram,3.9,No,2.8,3.1,6.3,6.8,6.3,High,Uttar pardesh
+USR00472,20,Male,Freelancer,YouTube,5.5,No,3.4,3.5,5.1,,7.6,Low,Rajasthan
+USR00473,20,Male,Student,YouTube,3.3,Yes,8.1,5.1,5.6,7.2,6.6,Moderate,Rajasthan
+USR00474,37,Female,Student,Facebook,1.5,No,,3.4,6.5,6.5,9.2,Low,Punjab
+USR00475,31,Female,,,3.2,Yes,3.5,1.7,5.3,6.5,6.2,Moderate,Haryana
+USR00476,24,Female,Working Professional,TikTok,2.9,Yes,0.2,0.6,7.8,5.4,7,Moderate,Himachal pardesh
+USR00477,42,Male,Unemployed,Instagram,2.4,Yes,6.6,4,2.1,4.8,6.6,High,Haryana
+USR00478,34,Male,Student,Instagram,6.7,Yes,5.5,6,2,7.3,5.6,High,Nagaland
+USR00479,26,Female,Student,TikTok,2.7,Yes,4.6,5.7,2.8,6.5,6.9,Moderate,Tamil nadu
+USR00480,33,Male,Unemployed,YouTube,2.2,Yes,4.3,5,3.5,7.3,7.8,Low,meghalaya
+USR00481,35,Female,Working Professional,Twitter/X,4.9,Yes,5.8,3.2,5.1,8.4,7.1,Low,Maharashtra
+USR00482,17,Female,Freelancer,,5.5,Yes,3.9,9.6,7.6,5.6,5.3,High,Maharashtra
+USR00483,30,Male,Student,Twitter/X,8,No,3.8,0.8,8.8,6.3,5.1,Moderate,mizoram
+USR00484,23,Male,Student,TikTok,5.1,No,6.3,7,8.2,,8,Low,Manipur
+USR00485,41,Female,Freelancer,Facebook,1.6,Yes,5.6,2.4,7,4.8,8.9,Low,Manipur
+USR00486,35,,Student,Instagram,2.6,Yes,6.6,1.4,7.1,8.3,7,Moderate,Himachal pardesh
+USR00487,40,Non-binary,Student,Facebook,6.5,Yes,3.5,8,5.1,6.2,5.9,High,kerala
+USR00488,31,Male,Student,Instagram,3.1,No,7.4,4.5,6.3,,7,Moderate,Sikkim
+USR00489,25,Male,Student,TikTok,5.5,No,4.1,3.5,,,5.7,High,Andhara pardesh
+USR00490,15,Female,Student,Instagram,8.4,No,,6.2,8.5,7.5,6.1,High,Arunachal pardesh
+USR00491,41,Male,,TikTok,1.4,No,5.8,3.3,5.2,6.1,6,High,Goa
+USR00492,28,Non-binary,Student,Instagram,1.4,,7.8,3,7,8.1,7,Moderate,Gujarat
+USR00493,17,Male,Working Professional,Twitter/X,4.1,No,5.1,4.7,6.7,7.2,5.7,High,kerala
+USR00494,37,Male,Working Professional,TikTok,4.4,Yes,6,3.6,5.2,7.8,5.1,Severe,Odisha
+USR00495,43,Male,Working Professional,YouTube,6.3,Yes,3.4,7.6,7.6,5.8,6.8,Moderate,Uttarakhand
+USR00496,18,Female,Student,YouTube,1.1,No,1.2,1.7,10,7.5,9.3,Low,Tamil nadu
+USR00497,24,Female,Working Professional,YouTube,5.7,Yes,2,3.7,3.2,6.2,8.2,Low,Nagaland
+USR00498,43,Male,Working Professional,Instagram,4,No,4.2,7.4,8.6,6.8,7.4,Low,Nagaland
+USR00499,36,Male,Student,Instagram,0.9,No,5.9,4.5,6.4,7.3,6.7,Low,Punjab
+USR00500,30,Female,Working Professional,Snapchat,4,Yes,2,4.6,5.2,7.7,7.1,Moderate,Rajasthan
